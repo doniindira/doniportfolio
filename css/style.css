@@ -317,25 +317,6 @@ a:hover {
 
 }
 
-@keyframes change-jumbotron {
-    0% {
-        background-image: url(../img/655329.png);
-
-    }
-
-    25% {
-        background-image: url(../img/christopher-gower-m_HRfLhgABo-unsplash.jpg);
-    }
-
-    50% {
-        background-image: url(../img/jeshoots-com-5EKw8Z7CgE4-unsplash.jpg);
-    }
-
-    100% {
-        background-image: url(../img/jeshoots-com-pUAM5hPaCRI-unsplash.jpg);
-    }
-}
-
 @media (max-width:1080px) {
     .container .mypersonal {
         width: 100%;
