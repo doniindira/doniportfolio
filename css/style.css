@@ -336,7 +336,7 @@ a:hover {
     }
 }
 
-@mediascreen and (max-width:940px) {
+@media (max-width:940px) {
     .container .mypersonal {
         width: 100%;
         float: left;
@@ -369,7 +369,7 @@ a:hover {
 
 
 
-@media screen and (max-width:1000px) {
+@media (max-width:1000px) {
     .header .nav {
         display: none;
     }
