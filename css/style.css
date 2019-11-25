@@ -108,7 +108,7 @@ a:hover {
     background-position: center;
     background-size: cover;
     height: 400px;
-    animation-fill-mode: forwards;
+    animation-fill-mode: backwards;
     box-shadow: 0px 3px 4px grey;
 }
 
