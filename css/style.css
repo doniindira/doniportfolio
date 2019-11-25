@@ -116,6 +116,7 @@ a:hover {
     padding-left: 100px;
     padding-top: 150px;
     color: aliceblue;
+    animation: nav-sidebar;
     animation-delay: 1s;
     animation-duration: 1s;
     animation-fill-mode: forwards;
