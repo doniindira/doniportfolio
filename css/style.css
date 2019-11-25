@@ -120,7 +120,7 @@ a:hover {
     animation-delay: 1s;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-    opacity: 0;
+    opacity: 1;
 }
 
 .jumbotron .btn h2 {
